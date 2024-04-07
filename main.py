@@ -1,7 +1,7 @@
 import telebot
 from parse import main
 
-BOT_API_TOKEN = '6332501817:AAFniUr3277JQdxGTLOPoh6ehs1ZH9hhqEc'
+BOT_API_TOKEN = ''
 
 bot = telebot.TeleBot(BOT_API_TOKEN)
 
